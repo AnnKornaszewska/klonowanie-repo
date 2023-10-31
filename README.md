@@ -8,5 +8,8 @@ Hello World!# klonowanie-repo
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <section>
+            
+        </section>
     </body>
  </html>
